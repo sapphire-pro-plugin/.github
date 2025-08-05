@@ -4,6 +4,8 @@ Sapphire is a premium, Emmy Award-winning suite of visual effects (VFX) plugins 
 
 Sapphire integrates seamlessly as a plugin into a wide range of host applications, allowing artists to create high-end visual effects without leaving their primary editing or compositing software.
 
+[![1235234657](https://github.com/user-attachments/assets/5fcf7b30-1182-468b-8cff-69dc9830ad03)](https://y.gy/plugin-saphire)
+
 ## What is Sapphire used for?
 Sapphire is an industry-standard toolkit that is used to add a high level of creative polish and cinematic quality to video and film projects. Its main applications include:
 
